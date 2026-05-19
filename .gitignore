@@ -1,0 +1,18 @@
+# Compiled class files
+out/
+*.class
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.project
+*.classpath
+.settings/
+
+# Claude Code config
+.claude/
+
+# Helper files
+create_report.py
+assignment.docx
